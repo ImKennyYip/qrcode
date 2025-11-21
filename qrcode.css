@@ -1,0 +1,17 @@
+#qrcode-container {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#qrcode-url {
+    font-size: 20px;
+}
+
+#qrcode-button {
+    font-size: 20px;
+}

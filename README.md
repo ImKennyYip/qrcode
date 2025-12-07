@@ -1,6 +1,6 @@
 # [QR Code Generator](https://youtu.be/8MjZyGBhMTc)
 - Coding Tutorial: [https://youtu.be/8MjZyGBhMTc](https://youtu.be/8MjZyGBhMTc)
-- Demo: https://imkennyyip.github.io/qrcpde/
+- Demo: https://imkennyyip.github.io/qrcode/
 
 In this tutorial, you will learn how to use the qrcode library to generate qr codes using javascript.
 
